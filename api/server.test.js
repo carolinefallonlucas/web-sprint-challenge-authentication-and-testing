@@ -8,7 +8,7 @@ const user = {
 
 	username: 'cfallon',
 
-	password: 'thispasswordiscrap',
+	password: 'shh',
 
 };
 
